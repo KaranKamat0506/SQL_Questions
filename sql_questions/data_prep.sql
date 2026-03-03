@@ -1,0 +1,16 @@
+--Data prep
+
+CREATE TABLE emp (
+    empno NUMBER,
+    ename VARCHAR2(20),
+    deptno NUMBER,
+    sal NUMBER
+);
+
+INSERT INTO emp VALUES (101, 'A', 10, 5000);
+INSERT INTO emp VALUES (102, 'B', 10, 4000);
+INSERT INTO emp VALUES (103, 'C', 10, 4000);
+INSERT INTO emp VALUES (104, 'D', 20, 6000);
+INSERT INTO emp VALUES (105, 'E', 20, 3000);
+INSERT INTO emp VALUES (106, 'F', 30, 2000);
+
