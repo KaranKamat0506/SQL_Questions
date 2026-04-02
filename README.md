@@ -13,6 +13,11 @@ window_partitioning/
     ├── lead.sql                → Practice queries for LEAD() window function
     ├── lead_lag.sql            → Combined LEAD() & LAG() analytical problems
     └── lead_lag_data_prep.sql  → Sample datasets used for practice
+sql_questions/
+├── dataprep.sql
+├── topic1.sql
+├── topic2.sql
+└── ...
 ```
 
 ---
